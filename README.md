@@ -2,7 +2,7 @@
 
 This is a Packet Tracer lab I built while practicing networking.
 
-I wanted to see how a real small business network might be structured — separating Admin, Employees, Guests, and Servers.
+I wanted to see how a real small business network might be structured by separating Admin, Employees, Guests, and Servers.
 
 **Tools:** Cisco Packet Tracer  
 **Practiced:** VLANs, trunking, DHCP, router-on-a-stick, and ACLs
