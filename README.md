@@ -2,7 +2,7 @@
 
 This is a Packet Tracer lab I built while practicing networking.
 
-I wanted to understand how a small business network could be set up with different groups separated, like Admin, Employees, Guests, and the Server/Printer side.
+I wanted to see how a real small business network might be structured — separating Admin, Employees, Guests, and Servers.
 
 **Tools:** Cisco Packet Tracer  
 **Practiced:** VLANs, trunking, DHCP, router-on-a-stick, and ACLs
@@ -38,4 +38,4 @@ Admin and Employee PCs could still reach the server, so the ACL only blocked the
 
 ## Main takeaway
 
-This lab helped me understand VLANs better. VLANs separate the network, but ACLs are what control who can actually access what.
+This lab made VLANs click for me. VLANs separate the network, but ACLs are what control who can actually access what.
